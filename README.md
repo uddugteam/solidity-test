@@ -11,6 +11,7 @@ task is to write unit test, find all mistakes and correct the contract, so it wi
 - Install all dependencies using yarn
 - Run `npx hardat test` to insure, that contract is compiling
 - Create `test` directory and `erc20.ts` test file
+- Push fixed code (with test) to NEW github repository
 
 ## Tasks
 

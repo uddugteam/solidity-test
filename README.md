@@ -11,7 +11,6 @@ task is to write unit test, find all mistakes and correct the contract, so it wi
 - Install all dependencies using yarn
 - Run `npx hardat test` to insure, that contract is compiling
 - Create `test` directory and `erc20.ts` test file
-- Push fixed code (with test) to NEW github repository
 
 ## Tasks
 
@@ -97,7 +96,7 @@ What are they? Write short description.
 ## When you are ready
 
 - Check that all tasks are completed
-- Create new git branch with your name in it
-- Push your commits into this branch
-- Open pull request and wait for review
-
+- Create NEW repository on GitHub
+- Make it public or private with access granted to reviewers
+- Push unit-tests and fixed contract to your repository
+- Write to your reviewers and wait for feedback
